@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(39, 39, 39);
+}
+h1 {
+    text-align: center;
+    padding: 40px 0;
+    color: rgb(177, 80, 80);
+}
+
+.card {
+    border: 0;
+} 
+
+.card-body {
+    background-color: rgb(216, 216, 216);
+}
+
+img {
+    height: 350px;
+    object-fit: cover;
+}
